@@ -4,72 +4,50 @@
 
 # tinykings
 
-**[Your Name]** &nbsp;·&nbsp; [your role] &nbsp;·&nbsp; [your city]
+*small tools · no servers*
 
 <br>
 
-<a href="mailto:you@example.com">
-  <img alt="email" src="https://img.shields.io/badge/email-111111?style=flat-square&logo=gmail&logoColor=white">
-</a>
-&nbsp;
-<a href="https://yourwebsite.com">
-  <img alt="site" src="https://img.shields.io/badge/website-111111?style=flat-square&logo=safari&logoColor=white">
-</a>
-&nbsp;
-<a href="https://github.com/tinykings">
-  <img alt="github" src="https://img.shields.io/badge/github-111111?style=flat-square&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://twitter.com/yourhandle">
-  <img alt="twitter" src="https://img.shields.io/badge/twitter-111111?style=flat-square&logo=x&logoColor=white">
+<a href="https://github.com/tinykings?tab=repositories">
+  <img alt="repos" src="https://img.shields.io/badge/repos-111111?style=flat-square&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
 </div>
 
-> [One sentence that captures your philosophy, approach, or what drives you.]
-
-<br>
-
-[Two or three sentences about yourself. What you build, what problems you care about, what draws you to this work. Keep it human — not a resume bullet point.]
+I build web apps that run entirely on GitHub Pages — no backend, no accounts, no infrastructure to manage. Fork a repo, enable Pages, and it's yours. Data lives in your browser or syncs via a private Gist.
 
 <br>
 
 ---
 
-## Projects
+### Apps
 
-<br>
-
-<table>
-  <tr>
-    <th align="left" width="200">Project</th>
-    <th align="left">Description</th>
-    <th align="right" width="180">Stack</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tinykings/your-project"><b>your-project</b></a></td>
-    <td>What it does. Why you built it. Who it's for.</td>
-    <td align="right"><code>rust</code>&nbsp;<code>cli</code></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tinykings/your-project"><b>your-project</b></a></td>
-    <td>What it does. Why you built it. Who it's for.</td>
-    <td align="right"><code>go</code>&nbsp;<code>api</code></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tinykings/your-project"><b>your-project</b></a></td>
-    <td>What it does. Why you built it. Who it's for.</td>
-    <td align="right"><code>ts</code>&nbsp;<code>react</code></td>
-  </tr>
-  <!-- add more rows here -->
-</table>
+| App | Description | |
+|:---|:---|---:|
+| [**plop**](https://github.com/tinykings/plop) | Minimal note-taking | [live ↗](https://tinykings.github.io/plop/) |
+| [**blink**](https://github.com/tinykings/blink) | RSS feed reader | [live ↗](https://tinykings.github.io/blink/) |
+| [**klept**](https://github.com/tinykings/klept) | Bookmark manager with tags and Gist sync | [live ↗](https://tinykings.github.io/klept/) |
+| [**juice**](https://github.com/tinykings/juice) | Task manager | [live ↗](https://tinykings.github.io/juice/) |
+| [**void**](https://github.com/tinykings/void) | Movie and show tracker | [live ↗](https://tinykings.github.io/void/) |
+| [**stack**](https://github.com/tinykings/stack) | Budget app | [live ↗](https://tinykings.github.io/stack/) |
+| [**cadence**](https://github.com/tinykings/cadence) | Time tracking | [live ↗](https://tinykings.github.io/cadence/) |
 
 <br>
 
 ---
 
-<div align="center">
-<sub>updated · feb 2026</sub>
-</div>
+### Config
+
+| | |
+|:---|:---|
+| [**dotfiles**](https://github.com/tinykings/dotfiles) | Shell and editor config |
+| [**scripts**](https://github.com/tinykings/scripts) | Utility shell scripts |
+| [**wallpaper**](https://github.com/tinykings/wallpaper) | Wallpaper scripts |
+
+<br>
+
+---
+
+<div align="center"><sub>updated · feb 2026</sub></div>
