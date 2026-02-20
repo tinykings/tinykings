@@ -7,7 +7,7 @@
 *tiny apps · no servers*
 <br>
 
-👁 **blink** - [site](https://tinykings.github.io/blink/) - [repo](https://github.com/tinykings/blink)  
+👁️ **blink** - [site](https://tinykings.github.io/blink/) - [repo](https://github.com/tinykings/blink)  
 RSS reader using github pages and actions
 
 🔑 **nulkey** - [site](https://nulkey.pages.dev/) - [repo](https://github.com/tinykings/nulkey)  
