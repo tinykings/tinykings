@@ -31,3 +31,6 @@ Budget app with an envelope and goal focus and mobile layout
 🏃 **cadence** - [site](https://tinykings.github.io/cadence/) - [repo](https://github.com/tinykings/cadence)  
 Time tracking for year goals
 
+📖 **seeDF** - [site](https://tinykings.github.io/seedf/) - [repo](https://github.com/tinykings/seedf)  
+Get text from pdf upload
+
