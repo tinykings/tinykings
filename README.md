@@ -13,7 +13,7 @@ RSS reader using github pages and actions
 🔑 **nulkey** - [site](https://nulkey.pages.dev/) - [repo](https://github.com/tinykings/nulkey)  
 Stateless password manager with passkey support
 
-🥔 **patata** - [site](https://tinykings.github.io/patata/) - [repo](https://github.com/tinykings/patata)
+🥔 **patata** - [site](https://tinykings.github.io/patata/) - [repo](https://github.com/tinykings/patata)  
 Timer and music app
 
 🪝 **klept** - [site](https://tinykings.github.io/klept/) - [repo](https://github.com/tinykings/klept)  
